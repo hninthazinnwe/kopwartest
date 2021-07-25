@@ -68,7 +68,7 @@ export default {
 	.about {
 		background: url(../assets/img/service-bg.svg) repeat-y;
 		background-size: cover;
-		padding: 100px 200px;
+		padding: 80px 200px;
 		display: flex;
 		font-family: "Montserrat", sans-serif;
 		color: #17141f !important;

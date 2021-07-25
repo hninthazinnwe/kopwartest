@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <a  name="home"></a>
-    <div class="d-flex justify-content-end ps-5">
+    <div class="d-flex justify-content-center ps-5">
       <div class="row">
       <div class="col-lg-5 ps-5">
         <h1>Download Your Kopwar App</h1>
@@ -47,7 +47,7 @@ export default {
   .device-wrapper {
     max-width: 300px;
     width: 100%;
-    margin-left: 50px;
+    margin-left: 150px;
     z-index: 1;
     position: relative;
   }

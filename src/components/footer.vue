@@ -25,7 +25,7 @@
 			</div>
 		</div>
 		<div class="copyrights">       
-			<div class="container text-center pt-5 py-4">
+			<div class="container text-center pt-5">
 				<p class="mb-0 text-muted text-sm"> Copyright © Kopwar Website 2021.</p>
 			</div>
 		</div>
@@ -40,7 +40,7 @@ export default {
 	.footer {
 		position: relative;
 		font-family: "Montserrat", sans-serif;
-		padding: 80px 250px;
+		padding: 80px 250px 10px 250px;
 	}
 	.pattern-1::before {
 		content: '';

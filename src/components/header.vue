@@ -109,7 +109,7 @@ export default {
 	}
 	@media (max-width: 768px) {
 		#navbar {
-				padding: 10px 50px !important;
+				padding: 10px !important;
 		}
 	}
 </style>
